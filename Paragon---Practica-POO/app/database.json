@@ -1,0 +1,199 @@
+[
+  {
+    "username": "user1",
+    "password": "pass1",
+    "personajes": [
+      {
+        "id": 1,
+        "tipo": "Guerrero",
+        "nombre": "Hero1",
+        "nivel": 1,
+        "puntosSalud": 155,
+        "saludMaxima": 155,
+        "puntosMana": 42,
+        "manaMaxima": 42,
+        "fuerza": 36,
+        "inteligencia": 11,
+        "destreza": 13,
+        "experiencia": 53,
+        "experienciaSiguienteNivel": 100,
+        "habilidades": [
+          "RAYO_ARCANO"
+        ],
+        "items": [
+          "ESPADA"
+        ]
+      },
+      {
+        "id": 1,
+        "tipo": "Guerrero",
+        "nombre": "Hero1",
+        "nivel": 1,
+        "puntosSalud": 155,
+        "saludMaxima": 155,
+        "puntosMana": 42,
+        "manaMaxima": 42,
+        "fuerza": 36,
+        "inteligencia": 11,
+        "destreza": 13,
+        "experiencia": 53,
+        "experienciaSiguienteNivel": 100,
+        "habilidades": [
+          "RAYO_ARCANO"
+        ],
+        "items": [
+          "ESPADA"
+        ]
+      }
+    ]
+  },
+  {
+    "username": "user2",
+    "password": "pass2",
+    "personajes": [
+      {
+        "id": 1,
+        "tipo": "Guerrero",
+        "nombre": "Hero2",
+        "nivel": 1,
+        "puntosSalud": 108,
+        "saludMaxima": 108,
+        "puntosMana": 42,
+        "manaMaxima": 42,
+        "fuerza": 40,
+        "inteligencia": 10,
+        "destreza": 15,
+        "experiencia": 0,
+        "experienciaSiguienteNivel": 100,
+        "habilidades": [
+          "RAYO_ARCANO"
+        ],
+        "items": [
+          "ESPADA"
+        ]
+      },
+      {
+        "id": 1,
+        "tipo": "Guerrero",
+        "nombre": "Hero2",
+        "nivel": 1,
+        "puntosSalud": 108,
+        "saludMaxima": 108,
+        "puntosMana": 42,
+        "manaMaxima": 42,
+        "fuerza": 40,
+        "inteligencia": 10,
+        "destreza": 15,
+        "experiencia": 0,
+        "experienciaSiguienteNivel": 100,
+        "habilidades": [
+          "RAYO_ARCANO"
+        ],
+        "items": [
+          "ESPADA"
+        ]
+      }
+    ]
+  },
+  {
+    "username": "user1",
+    "password": "pass1",
+    "personajes": [
+      {
+        "id": 1,
+        "tipo": "Guerrero",
+        "nombre": "Hero1",
+        "nivel": 1,
+        "puntosSalud": 129,
+        "saludMaxima": 129,
+        "puntosMana": 46,
+        "manaMaxima": 46,
+        "fuerza": 25,
+        "inteligencia": 5,
+        "destreza": 11,
+        "experiencia": 0,
+        "experienciaSiguienteNivel": 100,
+        "habilidades": [
+          "RAYO_ARCANO"
+        ],
+        "items": [
+          "ESPADA"
+        ]
+      },
+      {
+        "id": 1,
+        "tipo": "Guerrero",
+        "nombre": "Hero1",
+        "nivel": 1,
+        "puntosSalud": 129,
+        "saludMaxima": 129,
+        "puntosMana": 46,
+        "manaMaxima": 46,
+        "fuerza": 25,
+        "inteligencia": 5,
+        "destreza": 11,
+        "experiencia": 0,
+        "experienciaSiguienteNivel": 100,
+        "habilidades": [
+          "RAYO_ARCANO"
+        ],
+        "items": [
+          "ESPADA"
+        ]
+      }
+    ]
+  },
+  {
+    "username": "user2",
+    "password": "pass2",
+    "personajes": [
+      {
+        "id": 1,
+        "tipo": "Guerrero",
+        "nombre": "Hero2",
+        "nivel": 1,
+        "puntosSalud": 107,
+        "saludMaxima": 107,
+        "puntosMana": 35,
+        "manaMaxima": 35,
+        "fuerza": 28,
+        "inteligencia": 8,
+        "destreza": 5,
+        "experiencia": 0,
+        "experienciaSiguienteNivel": 100,
+        "habilidades": [
+          "RAYO_ARCANO"
+        ],
+        "items": [
+          "ESPADA"
+        ]
+      },
+      {
+        "id": 1,
+        "tipo": "Guerrero",
+        "nombre": "Hero2",
+        "nivel": 1,
+        "puntosSalud": 107,
+        "saludMaxima": 107,
+        "puntosMana": 35,
+        "manaMaxima": 35,
+        "fuerza": 28,
+        "inteligencia": 8,
+        "destreza": 5,
+        "experiencia": 0,
+        "experienciaSiguienteNivel": 100,
+        "habilidades": [
+          "RAYO_ARCANO"
+        ],
+        "items": [
+          "ESPADA"
+        ]
+      }
+    ]
+  },
+  {
+    "username": "nuevoUser",
+    "password": "nuevoPass",
+    "personajes": []
+  }
+]

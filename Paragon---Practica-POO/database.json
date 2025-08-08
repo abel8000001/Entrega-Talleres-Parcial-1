@@ -1,0 +1,60 @@
+[
+  {
+    "username": "Abel",
+    "password": "1234",
+    "personajes": [
+      {
+        "id": 1,
+        "tipo": "Guerrero",
+        "nombre": "Terminator",
+        "nivel": 3,
+        "puntosSalud": 191,
+        "saludMaxima": 191,
+        "puntosMana": 64,
+        "manaMaxima": 64,
+        "fuerza": 40,
+        "inteligencia": 17,
+        "destreza": 14,
+        "experiencia": 45,
+        "experienciaSiguienteNivel": 200,
+        "habilidades": [
+          "CURACION_PROFUNDA",
+          "RAYO_ARCANO"
+        ],
+        "items": [
+          "AMULETO_SABIDURIA",
+          "ESPADA"
+        ]
+      }
+    ]
+  },
+  {
+    "username": "Miguel",
+    "password": "1234",
+    "personajes": [
+      {
+        "id": 1,
+        "tipo": "Guerrero",
+        "nombre": "Rambo",
+        "nivel": 1,
+        "puntosSalud": 143,
+        "saludMaxima": 143,
+        "puntosMana": 37,
+        "manaMaxima": 37,
+        "fuerza": 30,
+        "inteligencia": 13,
+        "destreza": 10,
+        "experiencia": 0,
+        "experienciaSiguienteNivel": 100,
+        "habilidades": [
+          "CURACION_PROFUNDA",
+          "TORMENTA_DE_HIELO"
+        ],
+        "items": [
+          "ARMADURA_LIGERA",
+          "AMULETO_SABIDURIA"
+        ]
+      }
+    ]
+  }
+]
