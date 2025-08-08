@@ -1,0 +1,55 @@
+2025-08-08 10:00:37 [main] INFO  soundloud.Model.GestorPerfiles.GestorPerfiles - Perfiles guardados.
+2025-08-08 10:04:28 [main] INFO  soundloud.Model.Perfil.Perfil - Creando perfil con ID: 5059f217-c534-4a02-bc6f-1cbf6f9146bc
+2025-08-08 10:04:28 [main] INFO  soundloud.Model.GestorPerfiles.GestorPerfiles - Perfiles guardados.
+2025-08-08 10:11:24 [main] INFO  soundloud.Model.Perfil.Perfil - Creando perfil con ID: 55f9e46e-09d9-463b-bda6-814498364f0f
+2025-08-08 10:11:24 [main] INFO  soundloud.Model.GestorPerfiles.GestorPerfiles - Perfiles guardados.
+2025-08-08 10:12:30 [main] INFO  soundloud.Model.Perfil.Perfil - Creando perfil con ID: 5b3a1881-1784-4051-824b-64bfd8603397
+2025-08-08 10:12:30 [main] INFO  soundloud.Model.GestorPerfiles.GestorPerfiles - Perfiles guardados.
+2025-08-08 10:13:46 [main] INFO  soundloud.Model.Perfil.Perfil - Creando perfil con ID: 6d7333ee-da37-4c37-8c78-2b034e354268
+2025-08-08 10:13:46 [main] INFO  soundloud.Model.GestorPerfiles.GestorPerfiles - Perfiles guardados.
+2025-08-08 10:20:05 [main] INFO  soundloud.Model.Perfil.Perfil - Lista agregada: Hola
+2025-08-08 10:21:19 [main] INFO  soundloud.Model.Cancion.Cancion - Creando canción: Despacito de Luis Fonsi
+2025-08-08 10:21:19 [main] INFO  soundloud.Model.Cancion.Cancion - Creando canción: Rolling in the Deep de Adele
+2025-08-08 10:21:19 [main] INFO  soundloud.Model.Cancion.Cancion - Creando canción: Smells Like Teen Spirit de Nirvana
+2025-08-08 10:21:19 [main] INFO  soundloud.Model.ListaReproduccion.ListaReproduccion - Canciones cargadas exitosamente desde: c:\Users\abel2\Programacion\Estructuras de Datos\SoundLoud\app\src\main\resources\Archivos\PlayList1.txt
+2025-08-08 10:22:48 [main] INFO  soundloud.Model.Perfil.Perfil - Lista agregada: Hola2
+2025-08-08 10:23:00 [main] INFO  soundloud.Model.Cancion.Cancion - Creando canción: Despacito de Luis Fonsi
+2025-08-08 10:23:00 [main] INFO  soundloud.Model.Cancion.Cancion - Creando canción: Rolling in the Deep de Adele
+2025-08-08 10:23:00 [main] INFO  soundloud.Model.Cancion.Cancion - Creando canción: Smells Like Teen Spirit de Nirvana
+2025-08-08 10:23:00 [main] INFO  soundloud.Model.ListaReproduccion.ListaReproduccion - Canciones cargadas exitosamente desde: c:\Users\abel2\Programacion\Estructuras de Datos\SoundLoud\app\src\main\resources\Archivos\PlayList1.txt
+2025-08-08 10:31:22 [main] INFO  soundloud.Model.Perfil.Perfil - Lista agregada: Hola
+2025-08-08 10:31:35 [main] INFO  soundloud.Model.Cancion.Cancion - Creando canción: Despacito de Luis Fonsi
+2025-08-08 10:31:35 [main] INFO  soundloud.Model.Cancion.Cancion - Creando canción: Rolling in the Deep de Adele
+2025-08-08 10:31:35 [main] INFO  soundloud.Model.Cancion.Cancion - Creando canción: Smells Like Teen Spirit de Nirvana
+2025-08-08 10:31:35 [main] INFO  soundloud.Model.ListaReproduccion.ListaReproduccion - Canciones cargadas exitosamente desde: C:\Users\abel2\Programacion\Estructuras de Datos\SoundLoud\app\src\main\resources\Archivos\PlayList1.txt
+2025-08-08 10:40:15 [main] ERROR soundloud.Model.Perfil.Perfil - Los parámetros no pueden estar vacíos
+2025-08-08 10:40:15 [main] ERROR soundloud.Model.Perfil.Perfil - Error al crear el perfil: Los parámetros no pueden estar vacíos
+2025-08-08 10:40:37 [main] INFO  soundloud.Model.Perfil.Perfil - Creando perfil con ID: 11a9da97-ab7f-4cbd-b829-e2c78ad8129c
+2025-08-08 10:40:37 [main] INFO  soundloud.Model.GestorPerfiles.GestorPerfiles - Perfiles guardados.
+2025-08-08 10:40:46 [main] INFO  soundloud.Model.Perfil.Perfil - Lista agregada: hola
+2025-08-08 10:40:58 [main] INFO  soundloud.Model.Cancion.Cancion - Creando canción: Despacito de Luis Fonsi
+2025-08-08 10:40:58 [main] INFO  soundloud.Model.Cancion.Cancion - Creando canción: Rolling in the Deep de Adele
+2025-08-08 10:40:58 [main] INFO  soundloud.Model.Cancion.Cancion - Creando canción: Smells Like Teen Spirit de Nirvana
+2025-08-08 10:40:58 [main] INFO  soundloud.Model.ListaReproduccion.ListaReproduccion - Canciones cargadas exitosamente desde: C:\Users\abel2\Programacion\Estructuras de Datos\SoundLoud\app\src\main\resources\Archivos\PlayList1.txt
+2025-08-08 10:40:58 [main] INFO  soundloud.Model.GestorPerfiles.GestorPerfiles - Perfiles guardados.
+2025-08-08 10:41:34 [main] INFO  soundloud.Model.GestorPerfiles.GestorPerfiles - ID a eliminar: 11a9da97-ab7f-4cbd-b829-e2c78ad8129c
+2025-08-08 10:41:34 [main] INFO  soundloud.Model.GestorPerfiles.GestorPerfiles - Perfil cargado: Miguel | ID: 11a9da97-ab7f-4cbd-b829-e2c78ad8129c
+2025-08-08 10:41:34 [main] INFO  soundloud.Model.GestorPerfiles.GestorPerfiles - Perfiles guardados.
+2025-08-08 10:41:34 [main] WARN  soundloud.Model.GestorPerfiles.GestorPerfiles - No se encontró archivo de listas para eliminar: listas_11a9da97-ab7f-4cbd-b829-e2c78ad8129c.txt
+2025-08-08 10:41:34 [main] INFO  soundloud.Model.GestorPerfiles.GestorPerfiles - Perfil eliminado: Miguel
+2025-08-08 10:41:50 [main] INFO  soundloud.Model.Perfil.Perfil - Creando perfil con ID: 1c05ca86-5d81-4402-9709-2556858b1741
+2025-08-08 10:41:50 [main] INFO  soundloud.Model.GestorPerfiles.GestorPerfiles - Perfiles guardados.
+2025-08-08 10:41:59 [main] INFO  soundloud.Model.Perfil.Perfil - Lista agregada: prueba
+2025-08-08 10:42:07 [main] INFO  soundloud.Model.Cancion.Cancion - Creando canción: Despacito de Luis Fonsi
+2025-08-08 10:42:07 [main] INFO  soundloud.Model.Cancion.Cancion - Creando canción: Rolling in the Deep de Adele
+2025-08-08 10:42:07 [main] INFO  soundloud.Model.Cancion.Cancion - Creando canción: Smells Like Teen Spirit de Nirvana
+2025-08-08 10:42:07 [main] INFO  soundloud.Model.ListaReproduccion.ListaReproduccion - Canciones cargadas exitosamente desde: C:\Users\abel2\Programacion\Estructuras de Datos\SoundLoud\app\src\main\resources\Archivos\PlayList1.txt
+2025-08-08 10:42:07 [main] INFO  soundloud.Model.GestorPerfiles.GestorPerfiles - Perfiles guardados.
+2025-08-08 11:53:39 [main] INFO  soundloud.Model.Perfil.Perfil - Creando perfil con ID: fee83cc2-72c6-45c5-a346-24f12da90b1a
+2025-08-08 11:53:39 [main] INFO  soundloud.Model.GestorPerfiles.GestorPerfiles - Perfiles guardados.
+2025-08-08 11:53:52 [main] INFO  soundloud.Model.Perfil.Perfil - Lista agregada: prueba1
+2025-08-08 11:54:29 [main] INFO  soundloud.Model.Cancion.Cancion - Creando canción: Despacito de Luis Fonsi
+2025-08-08 11:54:29 [main] INFO  soundloud.Model.Cancion.Cancion - Creando canción: Rolling in the Deep de Adele
+2025-08-08 11:54:29 [main] INFO  soundloud.Model.Cancion.Cancion - Creando canción: Smells Like Teen Spirit de Nirvana
+2025-08-08 11:54:29 [main] INFO  soundloud.Model.ListaReproduccion.ListaReproduccion - Canciones cargadas exitosamente desde: C:\Users\abel2\Programacion\Estructuras de Datos\SoundLoud\app\src\main\resources\Archivos\PlayList1.txt
+2025-08-08 11:54:29 [main] INFO  soundloud.Model.GestorPerfiles.GestorPerfiles - Perfiles guardados.

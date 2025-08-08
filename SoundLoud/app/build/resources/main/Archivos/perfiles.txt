@@ -1,0 +1,2 @@
+d53ac928-164f-4e19-aa79-bcba0e106b2f;Miguel;1234;Me gusta escuchar musica;Rock
+fdfe99c6-6006-4b09-b541-5fb70cb0d7ce;Sofia;1234;No me gusta la musica;Indie

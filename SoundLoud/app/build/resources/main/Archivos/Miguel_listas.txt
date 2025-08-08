@@ -1,0 +1,9 @@
+PlayList1|Variado
+Despacito|Luis Fonsi|3:47|https://www.youtube.com/watch?v=kJQP7kiw5Fk&list=RDkJQP7kiw5Fk&start_radio=1
+Rolling in the Deep|Adele|4:01|https://www.youtube.com/watch?v=rYEDA3JcQqw&list=RDrYEDA3JcQqw&start_radio=1
+Smells Like Teen Spirit|Nirvana|5:01|https://www.youtube.com/watch?v=hTWKbfoikeg&list=RDhTWKbfoikeg&start_radio=1
+---
+PlayList2|Variado
+WHERE SHE GOES|Bad Bunny|4:15|https://www.youtube.com/watch?v=bef8QLNHubw&list=RDbef8QLNHubw&start_radio=1
+Reina Pepiada|Alvaro Diaz|4:05|https://www.youtube.com/watch?v=Zn37zIBGv5M&list=RDZn37zIBGv5M&start_radio=1
+---

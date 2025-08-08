@@ -1,0 +1,6 @@
+2025-08-08 12:51:41 [main] INFO  soundloud.Model.GestorPerfiles.GestorPerfiles - ID a eliminar: fee83cc2-72c6-45c5-a346-24f12da90b1a
+2025-08-08 12:51:41 [main] INFO  soundloud.Model.GestorPerfiles.GestorPerfiles - Perfil cargado: Abel | ID: 1c05ca86-5d81-4402-9709-2556858b1741
+2025-08-08 12:51:41 [main] INFO  soundloud.Model.GestorPerfiles.GestorPerfiles - Perfil cargado: Miguel | ID: fee83cc2-72c6-45c5-a346-24f12da90b1a
+2025-08-08 12:51:41 [main] INFO  soundloud.Model.GestorPerfiles.GestorPerfiles - Perfiles guardados.
+2025-08-08 12:51:41 [main] WARN  soundloud.Model.GestorPerfiles.GestorPerfiles - No se encontró archivo de listas para eliminar: listas_fee83cc2-72c6-45c5-a346-24f12da90b1a.txt
+2025-08-08 12:51:41 [main] INFO  soundloud.Model.GestorPerfiles.GestorPerfiles - Perfil eliminado: Miguel

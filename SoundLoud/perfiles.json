@@ -1,0 +1,36 @@
+[
+  {
+    "id": "1c05ca86-5d81-4402-9709-2556858b1741",
+    "nombre": "Abel",
+    "contra": "1234",
+    "descripcion": "Chico negro y atractivo",
+    "generoFavorito": "Rock",
+    "listasReproduccion": [
+      {
+        "id": "93066ad1-7c48-4636-9c0b-bcf137b58e14",
+        "nombre": "PlayList1",
+        "descripcion": "Musica Variada",
+        "canciones": [
+          {
+            "titulo": "Despacito",
+            "artista": "Luis Fonsi",
+            "duracion": "3:47",
+            "urlYouTube": "https://www.youtube.com/watch?v\u003dkJQP7kiw5Fk\u0026list\u003dRDkJQP7kiw5Fk\u0026start_radio\u003d1"
+          },
+          {
+            "titulo": "Rolling in the Deep",
+            "artista": "Adele",
+            "duracion": "4:01",
+            "urlYouTube": "https://www.youtube.com/watch?v\u003drYEDA3JcQqw\u0026list\u003dRDrYEDA3JcQqw\u0026start_radio\u003d1"
+          },
+          {
+            "titulo": "Smells Like Teen Spirit",
+            "artista": "Nirvana",
+            "duracion": "5:01",
+            "urlYouTube": "https://www.youtube.com/watch?v\u003dhTWKbfoikeg\u0026list\u003dRDhTWKbfoikeg\u0026start_radio\u003d1"
+          }
+        ]
+      }
+    ]
+  }
+]
